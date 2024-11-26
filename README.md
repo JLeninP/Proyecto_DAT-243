@@ -213,7 +213,7 @@ El volumen total de agua que fluyo durante las 12 horas de ese día fueron aprox
 El área bajo la curva representa el volumen total de agua que ha fluido por el río durante esas 12 horas, en metros cúbicos. Este valor es crucial para la planificación de la gestión de recursos hídricos y la evaluación del riesgo de inundaciones.
 
 
-# Notas y Referencias
+# NOTAS
 <hr id = "N1"></hr>
 
 1. _Una función elemental es una función construida a partir de una cantidad finita de funciones elementales fundamentales y constantes mediante operaciones racionales (adición, sustracción, multiplicación y división) y la composición de funciones. Usando exponenciales, logarítmicas, potenciales, constantes, y las funciones trigonométricas y sus inversas, todas consideradas dentro del grupo de funciones elementales fundamentales._
@@ -225,3 +225,9 @@ El área bajo la curva representa el volumen total de agua que ha fluido por el 
 <hr id = "N3"></hr>
 
 3. _Dos o más figuras son congruentes si se cumple que son equivalentes tanto en forma como en tamaño, es decir si sus lados y sus ángulos respectivos tienen la correspondiencia en la medida, aunque su posición y orientación sean distintas._
+
+# REFERENCIAS
+
+Steven C. Chapra, Rymond P. Canale (2015). MÉTODOS NUMÉRICOS (7ma ed.). (p. 471).
+
+Walter Mora F. (2016). MÉTODOS NUMÉRICOS (1ra ed.). (p. 166).
